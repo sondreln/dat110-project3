@@ -175,7 +175,6 @@ public class MainWindow extends JFrame implements PropertyChangeListener {
 				try {
 					peerprotocol.leaveRing();
 				} catch (RemoteException e1) {
-					// TODO Auto-generated catch block
 					e1.printStackTrace();
 				}				
 			}
