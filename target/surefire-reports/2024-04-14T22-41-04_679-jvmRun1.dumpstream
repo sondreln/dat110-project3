@@ -1,0 +1,162 @@
+# Created at 2024-04-14T22:41:32.240
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.388s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.254
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.388s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:41:32.255
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.404s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.255
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.404s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:41:32.256
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.405s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.256
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.405s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:41:32.257
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.406s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.269
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.406s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:41:32.288
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.438s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.291
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.438s][error  ][gc,task  ] GC(7) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:32.291
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.441s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.737
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.441s][error  ][gc,task  ] GC(7) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:32.738
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.887s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:32.763
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.887s][error  ][gc,task  ] GC(13) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:32.764
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.913s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:33.435
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.913s][error  ][gc,task  ] GC(13) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:33.550
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[28.700s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:33.550
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[28.700s][error  ][gc,task  ] GC(19) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:33.599
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[28.749s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:33.653
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[28.749s][error  ][gc,task  ] GC(19) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:34.853
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[30.003s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:34.961
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[30.003s][error  ][gc,task  ] GC(26) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:34.962
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[30.111s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:35.461
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[30.111s][error  ][gc,task  ] GC(26) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:36.578
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[31.726s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:36.672
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[31.726s][error  ][gc,task  ] GC(33) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:36.673
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[31.822s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:37.434
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[31.822s][error  ][gc,task  ] GC(33) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:38.662
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[33.806s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:38.778
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[33.806s][error  ][gc,task  ] GC(40) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:38.779
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[33.928s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:39.423
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[33.928s][error  ][gc,task  ] GC(40) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:40.636
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[35.784s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:40.766
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[35.784s][error  ][gc,task  ] GC(46) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:40.767
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[35.916s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:41.364
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[35.916s][error  ][gc,task  ] GC(46) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:43.531
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[38.678s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:43.639
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[38.678s][error  ][gc,task  ] GC(53) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:43.728
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[38.878s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:43.744
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[38.878s][error  ][gc,task  ] GC(53) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:46.351
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[41.499s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:46.565
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[41.500s][error  ][gc,task  ] GC(59) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:46.565
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[41.715s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:47.475
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[41.715s][error  ][gc,task  ] GC(59) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:49.726
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[44.874s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:49.826
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[44.874s][error  ][gc,task  ] GC(66) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:41:49.881
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[45.031s][warning][os,thread] Failed to start thread "G1 Conc#1" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:41:50.277
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[45.031s][error  ][gc,task  ] GC(66) Failed to create worker thread'.
+
+# Created at 2024-04-14T22:42:00.570
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[55.715s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:42:00.585
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[55.715s][warning][os,thread] Failed to start the native thread for java.lang.Thread "SIGHUP handler"'.
+
+# Created at 2024-04-14T22:42:00.591
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: EXIT
+java.io.EOFException
+	at org.apache.maven.surefire.api.stream.AbstractStreamDecoder.read(AbstractStreamDecoder.java:503)
+	at org.apache.maven.surefire.api.stream.AbstractStreamDecoder.read(AbstractStreamDecoder.java:470)
+	at org.apache.maven.surefire.api.stream.AbstractStreamDecoder.readMessageType(AbstractStreamDecoder.java:118)
+	at org.apache.maven.surefire.booter.stream.CommandDecoder.decode(CommandDecoder.java:87)
+	at org.apache.maven.surefire.booter.spi.CommandChannelDecoder.decode(CommandChannelDecoder.java:67)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:345)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+

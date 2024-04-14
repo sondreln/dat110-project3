@@ -1,0 +1,24 @@
+# Created at 2024-04-14T22:27:26.382
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.426s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:27:26.397
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.426s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:27:26.398
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.448s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:27:26.398
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.448s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:27:26.399
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.449s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:27:26.400
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.449s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
+# Created at 2024-04-14T22:27:26.400
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.451s][warning][os,thread] Failed to start thread "Unknown thread" - pthread_create failed (EAGAIN) for attributes: stacksize: 2048k, guardsize: 16k, detached.'.
+
+# Created at 2024-04-14T22:27:26.440
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[27.451s][warning][os,thread] Failed to start the native thread for java.lang.Thread "RMI TCP Connection(idle)"'.
+
